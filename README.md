@@ -1,3 +1,3 @@
 LINK PARA VISUALIZAR O PROJETO:
 
-https://geovanasiteacessivel.netlify.app/
+file:///C:/Users/thiag/Documents/site%20acessibilidade/index.html
